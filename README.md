@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services, Inc.
 
 ##
-a website that offers digital management and optimization
+a website that offers digital management and optimization solutions
 
 ##
 built with
